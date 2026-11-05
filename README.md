@@ -1,32 +1,32 @@
 <div align="center">
 
-<!-- ULTRA-PREMIUM OMNI-CORE HERO SECTION: PURE VOID & ELECTRIC AMBER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFAB00&height=380&section=header&text=I%20N%20T%20E%20R%20V%20I%20E%20W%20%20❖%20%20C%20O%20D%20E%20X&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20ARCHITECTURE&descAlignY=62&descAlign=50" width="100%" />
+<!-- ULTRA-PREMIUM APEX-CYBER HERO SECTION: DEEP SPACE & PLASMA PURPLE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,100:B900FF&height=380&section=header&text=I%20N%20T%20E%20R%20V%20I%20E%20W%20%20❖%20%20C%20O%20D%20E%20X&fontSize=68&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20DEFINITIVE%20PLACEMENT%20ARCHITECTURE&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (ORBITRON FONT) -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Placement+Preparation;►+Master+C,+C++,+Java,+Python,+%26+OOPS;►+Dominate+DBMS,+OS,+%26+Data+Structures;►+Crack+HR,+MR,+%26+TCS+NQT+Technical+Rounds.&center=true&width=800&height=70&color=FFAB00&vCenter=true&size=24&font=Orbitron&weight=700" />
+<!-- ADVANCED COMMAND-LINE TYPING ANIMATION (SPACE MONO FONT) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=►+Root+Access:+Tier-1+Placement+Preparation;►+Master+C,+C++,+Java,+Python,+%26+OOPS;►+Dominate+DBMS,+OS,+%26+Data+Structures;►+Crack+HR,+MR,+%26+TCS+NQT+Technical+Rounds.&center=true&width=800&height=70&color=00E5FF&vCenter=true&size=23&font=Space+Mono&weight=700" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-000000?style=for-the-badge&logo=github&logoColor=FFAB00" alt="Author">
-  <img src="https://img.shields.io/badge/TARGET-TCS_NQT_&_MNCs-000000?style=for-the-badge&logo=target&logoColor=FFAB00" alt="Target">
-  <img src="https://img.shields.io/badge/SOURCE-ONLINESTUDY4U-000000?style=for-the-badge&logo=hackthebox&logoColor=FFAB00" alt="Source">
-  <img src="https://img.shields.io/badge/PAYLOAD-Comprehensive_Interview_Material-FFAB00?style=for-the-badge&logo=codeforces&logoColor=000000" alt="Content">
+  <img src="https://img.shields.io/badge/AUTHOR-Aditya_Prakash_Naik-030305?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Author">
+  <img src="https://img.shields.io/badge/TARGET-TCS_NQT_&_MNCs-030305?style=for-the-badge&logo=target&logoColor=B900FF" alt="Target">
+  <img src="https://img.shields.io/badge/SOURCE-ONLINESTUDY4U-030305?style=for-the-badge&logo=hackthebox&logoColor=00E5FF" alt="Source">
+  <img src="https://img.shields.io/badge/PAYLOAD-Comprehensive_Interview_Material-B900FF?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Content">
 </p>
 
 <br>
 
 <a href="./Comprehensive%20interview%20material%20.pdf">
-  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFAB00" alt="Read PDF" width="650">
+  <img src="https://img.shields.io/badge/▨_EXECUTE_PROTOCOL-ACCESS_THE_MASTER_CODEX-030305?style=for-the-badge&logo=adobeacrobatreader&logoColor=00E5FF" alt="Read PDF" width="650">
 </a>
 
 <br><br>
 
 <table width="95%" align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding: 25px; border: 2px solid #FFAB00; background-color: #050505; border-radius: 8px; box-shadow: 0px 0px 15px rgba(255, 171, 0, 0.2);">
-      <h2 style="color: #FFAB00; margin-bottom: 10px; font-family: monospace;">[ 💠 EXECUTIVE BRIEFING ]</h2>
+    <td align="center" style="padding: 25px; border: 2px solid #B900FF; background-color: #0A0A10; border-radius: 8px; box-shadow: 0px 0px 20px rgba(185, 0, 255, 0.25);">
+      <h2 style="color: #00E5FF; margin-bottom: 10px; font-family: monospace;">[ 💠 EXECUTIVE BRIEFING ]</h2>
       <i style="color: #E0E0E0;">This repository houses a highly classified interview preparation codex originally designed by ONLINESTUDY4U and prepared by Ex-TATA Employee Pratik Shrivastava[cite: 154]. It bridges core computer science fundamentals with direct hardware engineering principles, providing an absolute tactical advantage for high-stakes technical (TR), managerial (MR), and HR interviews across elite organizations like TCS[cite: 184, 187, 188].</i>
     </td>
   </tr>
@@ -36,12 +36,12 @@
 
 <br>
 
-<!-- SLEEK ELECTRIC AMBER TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAB00,100:000000&height=3" width="100%"/>
+<!-- SLEEK PLASMA PURPLE TO DEEP SPACE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B900FF,100:030305&height=3" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 Ｒ 𝗔 Ｃ 𝗧 𝗜 Ｖ 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗛 𝗘 &nbsp; 𝗜 𝗡 𝗧 𝗘 𝗥 𝗔 Ｃ 𝗧 𝗜 𝗩 𝗘 &nbsp; 𝗦 𝗬 𝗟 𝗟 𝗔 𝗕 𝗨 𝗦 ✦</h2>
 
 <p align="center"><i>A high-density architectural breakdown of the computational ecosystem. Click to expand modules for detailed intelligence.</i></p>
 
@@ -50,7 +50,7 @@
 <div align="center">
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFAB00/code.png" width="24"/> <kbd>./execute module_01 --languages-oops</kbd></b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/code.png" width="24"/> <kbd>./execute module_01 --languages-oops</kbd></b></summary>
   <blockquote>
   <p align="left"><i><b>Brief:</b> Deep-dive architectural comparisons and memory management principles across primary development languages.</i></p>
   <table width="100%" cellpadding="22">
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFAB00/database.png" width="24"/> <kbd>./execute module_02 --cs-fundamentals</kbd></b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/database.png" width="24"/> <kbd>./execute module_02 --cs-fundamentals</kbd></b></summary>
   <blockquote>
   <p align="left"><i><b>Brief:</b> Tactical domination of Database Management Systems, Operating System logic, and Data Structure access strategies.</i></p>
   <table width="100%" cellpadding="22">
@@ -96,7 +96,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFAB00/processor.png" width="24"/> <kbd>./execute module_03 --core-engineering</kbd></b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/processor.png" width="24"/> <kbd>./execute module_03 --core-engineering</kbd></b></summary>
   <blockquote>
   <p align="left"><i><b>Brief:</b> Bare-metal hardware protocols bridging the gap between Software IT and Electronics/Mechanical/Electrical engineering domains.</i></p>
   <table width="100%" cellpadding="22">
@@ -119,7 +119,7 @@
 </details>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/ios-filled/64/FFAB00/interview.png" width="24"/> <kbd>./execute module_04 --hr-and-experiences</kbd></b></summary>
+  <summary><b><img src="https://img.icons8.com/nolan/64/interview.png" width="24"/> <kbd>./execute module_04 --hr-and-experiences</kbd></b></summary>
   <blockquote>
   <p align="left"><i><b>Brief:</b> Real-world intelligence gathered from TCS NQT technical and managerial interviews, plus standardized HR protocols.</i></p>
   <table width="100%" cellpadding="22">
@@ -145,12 +145,12 @@
 
 <br>
 
-<!-- SLEEK VOID TO ELECTRIC AMBER DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FFAB00&height=3" width="100%"/>
+<!-- SLEEK DEEP SPACE TO PLASMA PURPLE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030305,100:B900FF&height=3" width="100%"/>
 
 <br>
 
-<h2 align="center">✦ 𝗧 𝗔 𝗥 Ｇ 𝗘 𝗧 &nbsp; 𝗩 𝗘 Ｃ 𝗧 𝗢 𝗥 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗧 𝗔 Ｒ Ｇ 𝗘 𝗧 &nbsp; 𝗩 𝗘 Ｃ 𝗧 𝗢 Ｒ 𝗦 ✦</h2>
 
 <p align="center"><i>This codex is mathematically optimized to dominate the technical rounds for the following roles:</i></p>
 
@@ -158,18 +158,18 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/ROLE-Software_Development_Engineer-000000?style=for-the-badge&logoColor=FFAB00" /> 
-<img src="https://img.shields.io/badge/ROLE-Systems_Analyst-000000?style=for-the-badge&logoColor=FFAB00" /> 
-<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-000000?style=for-the-badge&logoColor=FFAB00" /><br><br>
-<img src="https://img.shields.io/badge/ROLE-Database_Administrator-000000?style=for-the-badge&logoColor=FFAB00" />
-<img src="https://img.shields.io/badge/ROLE-Core_Hardware_Engineer-000000?style=for-the-badge&logoColor=FFAB00" />
+<img src="https://img.shields.io/badge/ROLE-Software_Development_Engineer-030305?style=for-the-badge&logoColor=00E5FF" /> 
+<img src="https://img.shields.io/badge/ROLE-Systems_Analyst-030305?style=for-the-badge&logoColor=00E5FF" /> 
+<img src="https://img.shields.io/badge/ROLE-Embedded_Systems_Engineer-030305?style=for-the-badge&logoColor=00E5FF" /><br><br>
+<img src="https://img.shields.io/badge/ROLE-Database_Administrator-030305?style=for-the-badge&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/ROLE-Core_Hardware_Engineer-030305?style=for-the-badge&logoColor=00E5FF" />
 
 </div>
 
 <br>
 
-<!-- SLEEK ELECTRIC AMBER TO VOID DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFAB00,100:000000&height=3" width="100%"/>
+<!-- SLEEK PLASMA PURPLE TO DEEP SPACE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B900FF,100:030305&height=3" width="100%"/>
 
 <br>
 
@@ -183,25 +183,25 @@
   <tr>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFAB00/visible--v1.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/vision.png" width="60"/><br>
       <b>01. INGEST</b><br>
       <code>Parse Theory</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFAB00/code.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/source-code.png" width="60"/><br>
       <b>02. COMPILE</b><br>
       <code>Build Logic</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFAB00/bug.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/bug.png" width="60"/><br>
       <b>03. DEBUG</b><br>
       <code>Dry-Run Code</code>
     </td>
     <td width="25%" align="center" valign="middle">
       <br>
-      <img src="https://img.icons8.com/ios-filled/96/FFAB00/checked.png" width="60"/><br>
+      <img src="https://img.icons8.com/nolan/96/approval.png" width="60"/><br>
       <b>04. EXECUTE</b><br>
       <code>Clear HR</code>
     </td>
@@ -210,11 +210,11 @@
 
 <br>
 
-<table align="center" width="95%" style="border-left: 5px solid #FFAB00; background-color: #050505; border-radius: 4px; box-shadow: -4px 0px 10px rgba(255, 171, 0, 0.1);">
+<table align="center" width="95%" style="border-left: 5px solid #00E5FF; background-color: #0A0A10; border-radius: 4px; box-shadow: -4px 0px 15px rgba(0, 229, 255, 0.15);">
   <tr>
     <td align="center" style="padding: 20px;">
       <i style="color: #E0E0E0;">"The reason is my projects... put on your projects in your resume even if you did not complete that project."[cite: 187]</i><br><br>
-      <b style="color: #FFAB00; font-size: 1.1em;">💡 Tactical Edge:</b> <span style="color: #CCCCCC;">Interviewers routinely bypass standard questions ("Why TCS?") in favor of aggressive technical deep-dives into your specific resume projects[cite: 187]. Dominate the interview by forcibly routing their attention toward topics you fully control, such as specific web scrapers or database choices like MongoDB[cite: 185, 186].</span>
+      <b style="color: #00E5FF; font-size: 1.1em;">💡 Tactical Edge:</b> <span style="color: #CCCCCC;">Interviewers routinely bypass standard questions ("Why TCS?") in favor of aggressive technical deep-dives into your specific resume projects[cite: 187]. Dominate the interview by forcibly routing their attention toward topics you fully control, such as specific web scrapers or database choices like MongoDB[cite: 185, 186].</span>
     </td>
   </tr>
 </table>
@@ -225,7 +225,7 @@
 
 <!-- Executive Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFAB00,100:000000&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:030305&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Analyze /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Optimize /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Execute /&gt;</code>
   <br><br>
